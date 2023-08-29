@@ -1,5 +1,5 @@
 ### About me:
-Hi! I'm fourth year student of the Faculty of Information Technology of NSU and an Android developer!
+:ok_woman: Hi! I'm fourth year student of the Faculty of Information Technology of NSU and an Android developer!
 
 [![Header](https://github.com/MarinaPearl/MarinaPearl/blob/main/assets/e2fe9bb7ff7adc87badc5d4bc9abb944.png)]
 
