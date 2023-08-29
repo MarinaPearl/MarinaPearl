@@ -1,4 +1,4 @@
-[![Header](https://github.com/MarinaPearl/MarinaPearl/blob/main/assets/vector-art-about-education-study-and-school_975572-3931.png)]
+[![Header](https://github.com/MarinaPearl/MarinaPearl/blob/main/assets/avatar.png)]
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=9900ff)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=JAVA&logoColor=f88c00)
