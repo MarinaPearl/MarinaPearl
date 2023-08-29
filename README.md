@@ -1,4 +1,4 @@
-[![Header](https://github.com/MarinaPearl/MarinaPearl/blob/main/assets/37JA.gif)]
+[![Header](https://github.com/MarinaPearl/MarinaPearl/blob/main/assets/maxresdefault.png)]
 
 About me
 
