@@ -1,4 +1,4 @@
-[![Header](https://github.com/MarinaPearl/MarinaPearl/blob/main/assets/37JA.gif)]
+[![Header](<img src=https://github.com/MarinaPearl/MarinaPearl/blob/main/assets/37JA.gif) height="180" width="180"/>]
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=9900ff)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=f88c00)
